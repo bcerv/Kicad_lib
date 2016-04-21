@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA328P_MUR
+F http://www.atmel.com/images/Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf
+$ENDCMP
+#
+$CMP ATTINY841-SSU
+D ATTINY441-SSU, SO14, 4k Flash, 256B SRAM, 256B EEPROM, ADC, ACI, dW
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/Images/Atmel-8495-8-bit-AVR-Microcontrollers-ATtiny441-ATtiny841_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
